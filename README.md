@@ -23,3 +23,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=miguel-arturo-madrigal-escoto&show_icons=true&locale=en" alt="miguel-arturo-madrigal-escoto" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=miguel-arturo-madrigal-escoto&" alt="miguel-arturo-madrigal-escoto" /></p>
+
+
+
+
